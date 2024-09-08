@@ -1,0 +1,46 @@
+.table-container {
+    padding: 20px;
+    margin: 0 auto; /* Center horizontally */
+    max-width: 1200px; /* Optional: limits the maximum width */
+    text-align: center; /* Center text and inline elements */
+    background-image: linear-gradient(to right, #c0ebee, #f264f2);
+    background-size: cover;
+  }
+  
+  .cities-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto; /* Center the table horizontally */
+  }
+  
+  .cities-table th, .cities-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .cities-table th {
+    background-color: #f4f4f4;
+  }
+  
+  input[type="text"] {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Ensures padding does not affect width */
+    color: blueviolet;
+    font-size: 14px;
+  }
+  
+  .heading {
+    font-size: 30px;
+    color: blueviolet;
+  }
+
+  .cities{
+    font-size: 15px;
+    color: blueviolet;
+  }
+  

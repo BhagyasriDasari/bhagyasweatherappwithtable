@@ -1,0 +1,55 @@
+
+.weather-container{
+    padding: 20px;
+    margin: 0 auto; /* Center horizontally */
+    max-width: 1200px; /* Optional: limits the maximum width */
+    text-align: center; /* Center text and inline elements */
+    background-image: linear-gradient(to right, #c0ebee, #f264f2);
+    background-size: cover;
+}
+.weather-details {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .weather-card {
+    margin: 0 auto;
+    width: 250px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .weather-temp {
+    font-size: 2.5em;
+    color: #ff9800;
+  }
+  
+  .weather-info {
+    font-size: 1em;
+    color: #666;
+  }
+  
+  .back-button {
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #03a9f4;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .heading {
+    font-size: 30px;
+    color: blueviolet;
+    font-family: "Roboto";
+  }
+
+  .cities{
+    font-size: 20px;
+    color: rgb(26, 3, 48);
+    font-family: "Roboto";
+   
+  }
