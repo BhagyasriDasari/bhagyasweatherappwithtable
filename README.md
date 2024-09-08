@@ -35,4 +35,4 @@ Components
 Country: Handles the search functionality and displays a list of cities. It also manages the infinite scrolling to load more cities as needed.
 Weather: Fetches and displays detailed weather information for the selected city. Includes temperature, weather description, humidity, and wind speed.
 
-Deployed Link:
+Deployed Link:https://weatherappcountrytable.netlify.app/
