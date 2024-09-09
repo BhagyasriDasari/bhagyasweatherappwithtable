@@ -5,7 +5,7 @@ import './index.css';
 
 
 const WEATHER_API_URL = `https://api.openweathermap.org/data/2.5/weather`;
-const WEATHER_API_KEY = '920b013123447d8c58314d11177282d0';
+const WEATHER_API_KEY = '58314d11177282d0';
 
 class Weather extends Component {
   state = {
